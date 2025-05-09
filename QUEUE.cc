@@ -59,7 +59,7 @@ int main(){
             Print();
         }
         else if(opt == 4){
-        exit(0);
+            exit(0);
         }
         else{
             cout << "Wrong Key!!!" << endl;
